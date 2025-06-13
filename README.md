@@ -1,11 +1,12 @@
 # FSVS-Net: A Few-shot Semi-Supervised Vessel Segmentation Network for Multiple Organs Based on Feature Distillation and Bidirectional Weighted Fusion
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7280999-0752-42e1-b914-493098219fad" alt="FSVS-Net Architecture" width="800"/>
+</div>
 
 This repository contains the implementation, dataset, and documentation for the paper:
 ```paper
-FSVS-Net: A Few-shot Semi-Supervised Vessel Segmentation Network for Multiple Organs
-Based on Feature Distillation and Bidirectional Weighted Fusion
+FSVS-Net: A Few-shot Semi-Supervised Vessel Segmentation Network for Multiple Organs Based on Feature Distillation and Bidirectional Weighted Fusion
 ```
-![image](https://github.com/user-attachments/assets/d7280999-0752-42e1-b914-493098219fad)
 
 Authors: Yuqun Yang, Jichen Xu, Mengyuan Xu, et al.
 
