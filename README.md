@@ -39,11 +39,12 @@ For any questions or issues, feel free to reach out to
 - Bo Wang: bow@hust.edu.cn
 
 If you find this work helpful in your research or projects, please consider citing the following paper:
-“@article{yang2025fsvs,
+```bibtex
+@article{yang2025fsvs,
   title={FSVS-Net: A few-shot semi-supervised vessel segmentation network for multiple organs based on feature distillation and bidirectional weighted fusion},
   author={Yang, Yuqun and Xu, Jichen and Xu, Mengyuan and Tang, Xu and Wang, Bo and Shu, Kechen and You, Zheng},
   journal={Information Fusion},
   pages={103281},
   year={2025},
   publisher={Elsevier}
-}”
+}
