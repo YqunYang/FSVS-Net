@@ -30,7 +30,7 @@ This repository provides:
 
 ## Datasets
 
-Related datasets are being orgnized, and are expected to be available in June.
+Related datasets are being orgnized, and are expected to be available in July (originally planned for June, but delayed due to the complexity of the dataset preparation).
 
 ## License
 
