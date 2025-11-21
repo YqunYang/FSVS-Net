@@ -30,7 +30,7 @@ This repository provides:
 
 ## Datasets
 
-Related datasets are being orgnized, and are expected to be available in recent (delayed due to the complexity of the dataset preparation).
+Related datasets are being orgnized, and are expected to be available in the near future (delayed due to the complexity of the dataset preparation).
 
 ## License
 
